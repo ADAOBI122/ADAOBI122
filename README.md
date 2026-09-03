@@ -17,7 +17,7 @@ I am a **Software and Junior DevOps / Cloud Engineer** focused on designing, aut
 
 ### 🚀 Featured DevOps Projects
 
-*   **[Project 1 Title: Multi-Tier Web App Architecture Setup](https://github.com)**  
+*   **[Project 1 Title: Multi-Tier Web App Architecture Setup](.https://github.com/ADAOBI122/intermediate-terraform-project )**  
     Provisioned a highly available AWS infrastructure blueprint using Terraform, featuring custom VPC configurations, subnets, and Auto Scaling groups.
 *   **[Project 2 Title: Automated Microservices CI/CD Pipeline](https://github.com)**  
     Containerized a multi-tier web application using multi-stage Dockerfiles and automated deployments through GitHub Actions workflows.
